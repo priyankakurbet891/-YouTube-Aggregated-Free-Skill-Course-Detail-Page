@@ -65,7 +65,7 @@ You can enhance or modify this project by:
 ---
 
 ## Screenshots
-<img src="Screenshot (67).png></img>
+<img src="Screenshot (67).png"></img>
 
 ---
 
