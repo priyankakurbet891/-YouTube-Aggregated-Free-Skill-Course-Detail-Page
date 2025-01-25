@@ -40,7 +40,6 @@ This project is a beautifully designed static webpage for a YouTube Aggregated F
 ```
 project-directory
 ├── index.html   # Main HTML file
-├── styles.css   # External CSS file for styling
 └── README.md    # Documentation file
 ```
 
