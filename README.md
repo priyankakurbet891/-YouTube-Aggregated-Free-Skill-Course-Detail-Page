@@ -65,7 +65,7 @@ You can enhance or modify this project by:
 ---
 
 ## Screenshots
-![YouTube Course Page](screenshot(67).png)
+![YouTube Course Page](Screenshot (67).png)
 
 ---
 
